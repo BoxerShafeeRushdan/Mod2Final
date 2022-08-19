@@ -1,0 +1,19 @@
+{
+  "name": "mod2final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  
+    "scripts": {
+      "start": "node app.js"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "express-basic-auth": "^1.2.1",
+    "express-jwt": "^7.7.5",
+    "jwks-rsa": "^2.1.4"
+  }
+}
